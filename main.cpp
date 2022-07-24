@@ -85,7 +85,7 @@ product.displayPrice();
 //  action 2:
 product.displayInStockInventory();
 //  action 3:
-product.setOutOfStock();
+product.displayOutOfStockBadge();
 
 //  5)
 //  Noun: membership
