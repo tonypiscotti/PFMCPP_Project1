@@ -53,93 +53,93 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 //  1)
 //  Noun: ball
-//  action 1:
+//  action 1: The ball bounces
 ball.bounce();
-//  action 2:
+//  action 2: The ball rolls
 ball.roll();
-//  action 3:
+//  action 3: The ball spins counter clockwise
 ball.spinCounterClockwise();
 
 //  2)
 //  Noun: gate
-//  action 1:
-gate.openSwingOut();
-//  action 2:
-gate.openSwingIn();
-//  action 3:
-gate.closeSwingIn();
+//  action 1: The gate opens
+gate.open();
+//  action 2: The gate closes
+gate.close();
+//  action 3: The gate locks
+gate.lock();
 
 //  3)
-//  Noun: person
-//  action 1:
-person.hum();
-//  action 2:
-person.laugh();
-//  action 3:
-person.walkBackwards();
+//  Noun: radio
+//  action 1: The radio starts up
+radio.startUp();
+//  action 2: The radio shuts down
+radio.shutDown();
+//  action 3: The radio plays sound
+radio.playSound();
 
 //  4)
-//  Noun: product
-//  action 1:
-product.displayPrice();
-//  action 2:
-product.displayInStockInventory();
-//  action 3:
-product.displayOutOfStockBadge();
+//  Noun: person
+//  action 1: This person hums
+person.hum();
+//  action 2: This person laughs
+person.laugh();
+//  action 3: This person walks backwards
+person.walkBackwards();
 
 //  5)
-//  Noun: membership
-//  action 1:
-membership.displayConfirmationMessage();
-//  action 2:
-membership.setAddressAsDefault();
-//  action 3:
-membership.deleteRecord();
+//  Noun: airplane
+//  action 1: The airplane ascends
+airplane.ascend();
+//  action 2: The airplane descends
+airplane.descend();
+//  action 3: The airplane deploys its landing gear
+airplane.deployLandingGear();
 
 //  6)
 //  Noun: scene
-//  action 1:
+//  action 1: The scene starts
 scene.start();
-//  action 2:
+//  action 2: The scene pauses 
 scene.pause();
-//  action 3:
+//  action 3: The scene stops
 scene.stop();
 
 //  7)
-//  Noun: dog
-//  action 1:
-dog.sit();
-//  action 2:
-dog.run();
-//  action 3:
-dog.chaseTailClockwise();
+//  Noun: cat
+//  action 1: The cat meows
+cat.meow();
+//  action 2: The cat scratches
+cat.scratch();
+//  action 3: The cat eats
+cat.eat();
 
 //  8)
-//  Noun: hair
-//  action 1:
-hair.grow();
-//  action 2:
-hair.turnGray();
-//  action 3:
-hair.fallOut();
+//  Noun: phone
+//  action 1: The phone rings
+phone.ring();
+//  action 2: The phone plays a dial tone
+phone.playDialTone();
+//  action 3: The phone disconnects
+phone.disconnect();
 
 //  9)
 //  Noun: news
-//  action 1:
+//  action 1: The news article displays a headline
 news.displayHeadline();
-//  action 2:
+//  action 2: The news article display a sub-headline
 news.displaySubheadline();
-//  action 3:
+//  action 3: The news article dislplays main body content
 news.displayBodyContent();
 
 //  10)
 //  Noun: employee
-//  action 1:
-employee.setClockInDateAndTime();
-//  action 2:
-employee.updateCompensationDetails();
-//  action 3:
-employee.addResignationToEmailTemplate();
+//  action 1: The employee clocks in
+employee.clockIn();
+//  action 2: The employee takes a break
+employee.takeBreak();
+//  action 3: The employee clocks out
+employee.clockOut();
 
 
 
