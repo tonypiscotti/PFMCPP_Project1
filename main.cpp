@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: ball
+//  action 1: The ball bounces
+ball.bounce();
+//  action 2: The ball rolls
+ball.roll();
+//  action 3: The ball spins counter clockwise
+ball.spinCounterClockwise();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: gate
+//  action 1: The gate opens
+gate.open();
+//  action 2: The gate closes
+gate.close();
+//  action 3: The gate locks
+gate.lock();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: radio
+//  action 1: The radio starts up
+radio.startUp();
+//  action 2: The radio shuts down
+radio.shutDown();
+//  action 3: The radio plays sound
+radio.playSound();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: person
+//  action 1: This person hums
+person.hum();
+//  action 2: This person laughs
+person.laugh();
+//  action 3: This person walks backwards
+person.walkBackwards();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: airplane
+//  action 1: The airplane ascends
+airplane.ascend();
+//  action 2: The airplane descends
+airplane.descend();
+//  action 3: The airplane deploys its landing gear
+airplane.deployLandingGear();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: scene
+//  action 1: The scene starts
+scene.start();
+//  action 2: The scene pauses 
+scene.pause();
+//  action 3: The scene stops
+scene.stop();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cat
+//  action 1: The cat meows
+cat.meow();
+//  action 2: The cat scratches
+cat.scratch();
+//  action 3: The cat eats
+cat.eat();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: washingMachine
+//  action 1: The washing machine fills with water
+washingMachine.fillWater();
+//  action 2: The washing machine engages agitator
+washingMachine.engageAgitator();
+//  action 3: The washing machine starts spin cycle
+washingMachine.startSpinCycle();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: news
+//  action 1: The news article displays a headline
+news.displayHeadline();
+//  action 2: The news article display a sub-headline
+news.displaySubheadline();
+//  action 3: The news article dislplays main body content
+news.displayBodyContent();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: employee
+//  action 1: The employee clocks in
+employee.clockIn();
+//  action 2: The employee takes a break
+employee.takeBreak();
+//  action 3: The employee clocks out
+employee.clockOut();
 
 
 
