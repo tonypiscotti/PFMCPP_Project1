@@ -115,13 +115,13 @@ cat.scratch();
 cat.eat();
 
 //  8)
-//  Noun: phone
-//  action 1: The phone rings
-phone.ring();
-//  action 2: The phone plays a dial tone
-phone.playDialTone();
-//  action 3: The phone disconnects
-phone.disconnect();
+//  Noun: washingMachine
+//  action 1: The washing machine fills with water
+washingMachine.fillWater();
+//  action 2: The washing machine engages agitator
+washingMachine.engageAgitator();
+//  action 3: The washing machine starts spin cycle
+washingMachine.startSpinCycle();
 
 //  9)
 //  Noun: news
